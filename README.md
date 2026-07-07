@@ -1,5 +1,7 @@
 # Academic Expression Variants
 
+![Academic Expression Variants banner](docs/banner.svg)
+
 `academic-expression-variants` is a Codex skill for turning Chinese or English research-paper text into multiple publication-quality academic expression variants. It is designed for researchers who need faithful translation, idiomatic scientific English, conservative reviewer-safe wording, and side-by-side Chinese verification.
 
 The skill is especially useful for AI, recommender systems, multimodal learning, computer science, engineering, biomedical writing, social science writing, and other research-paper workflows where wording must be fluent but claims must remain defensible.
@@ -32,6 +34,10 @@ By default, every version includes:
 - No-API mode: lets users generate candidates in different ChatGPT models manually, then paste outputs back for rubric-based judging.
 - Multi-model API mode: supports user-configured OpenAI-compatible endpoints such as OpenAI, DeepSeek, local gateways, and custom chat5.4/chat5.5-style services.
 - Structured judging: evaluates candidates by fidelity, terminology, academic naturalness, bilingual alignment, claim control, and section fit.
+
+## Workflow
+
+![Academic Expression Variants workflow](docs/workflow.svg)
 
 ## Example
 
