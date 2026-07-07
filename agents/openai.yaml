@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Expression Variants"
+  short_description: "Create polished research prose variants."
+  default_prompt: "Use $academic-expression-variants to turn this research text into faithful, native, concise, strong, and reviewer-safe academic versions."
