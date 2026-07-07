@@ -40,7 +40,7 @@ User input:
 ```text
 Use $academic-expression-variants to polish the following paragraph for an introduction section:
 
-然而，显式模态补全对于不完整多模态推荐而言并不总是可靠。由于模态缺失可能引发频率非对称退化，信息损失往往会在不同频带上呈现不均衡分布...
+Multimodal recommendation aims to ...
 ```
 
 Expected output shape:
